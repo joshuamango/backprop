@@ -1,1 +1,1 @@
-# Backpropogation in Python
+# Backpropagation in Python
